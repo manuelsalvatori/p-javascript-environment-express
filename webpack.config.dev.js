@@ -1,4 +1,4 @@
-import webpack from 'webpack';
+//import webpack from 'webpack';
 import path from 'path'; //Comes with node and exposes __dirname as full path
 
 export default {
